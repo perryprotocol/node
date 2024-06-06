@@ -1,0 +1,13 @@
+python-telegram-bot
+requests
+pymongo
+solana
+solders
+Flask
+flask-cors
+pymongo
+python-dotenv
+pillow
+qrcode
+gunicorn
+
